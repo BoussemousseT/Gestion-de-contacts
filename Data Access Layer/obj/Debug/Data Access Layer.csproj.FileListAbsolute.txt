@@ -1,0 +1,18 @@
+C:\_mes cours\d05_C#\d05-a22-octobre-groupe1\Visual Studio\Data Access Layer\bin\Debug\Data Access Layer.pdb
+C:\_mes cours\d05_C#\d05-a22-octobre-groupe1\Visual Studio\Data Access Layer\obj\Debug\Data Access Layer.csprojAssemblyReference.cache
+C:\_mes cours\d05_C#\d05-a22-octobre-groupe1\Visual Studio\Data Access Layer\obj\Debug\Data Access Layer.csproj.CoreCompileInputs.cache
+C:\_mes cours\d05_C#\d05-a22-octobre-groupe1\Visual Studio\Data Access Layer\obj\Debug\Data Access Layer.pdb
+C:\_mes cours\d05_C#\d05-a22-octobre-groupe1\Visual Studio\Data Access Layer\bin\Debug\Modele.pdb
+C:\_mes cours\d05_C#\d05-a22-octobre-groupe1\Visual Studio\Data Access Layer\obj\Debug\Data Access Layer.csproj.CopyComplete
+C:\_mes cours\d05_C#\d05-a22-octobre-groupe1\Visual Studio\Data Access Layer\bin\Debug\Modele.dll
+C:\_mes_cours\d05_c#\TP\d05-a22-octobre-groupe1\Visual Studio\Data Access Layer\bin\Debug\Data Access Layer.pdb
+C:\_mes_cours\d05_c#\TP\d05-a22-octobre-groupe1\Visual Studio\Data Access Layer\bin\Debug\Modele.dll
+C:\_mes_cours\d05_c#\TP\d05-a22-octobre-groupe1\Visual Studio\Data Access Layer\bin\Debug\Modele.pdb
+C:\_mes_cours\d05_c#\TP\d05-a22-octobre-groupe1\Visual Studio\Data Access Layer\obj\Debug\Data Access Layer.csprojAssemblyReference.cache
+C:\_mes_cours\d05_c#\TP\d05-a22-octobre-groupe1\Visual Studio\Data Access Layer\obj\Debug\Data Access Layer.csproj.CoreCompileInputs.cache
+C:\_mes_cours\d05_c#\TP\d05-a22-octobre-groupe1\Visual Studio\Data Access Layer\obj\Debug\Data Access Layer.csproj.CopyComplete
+C:\_mes_cours\d05_c#\TP\d05-a22-octobre-groupe1\Visual Studio\Data Access Layer\obj\Debug\Data Access Layer.pdb
+C:\_mes cours\d05_C#\d05-a22-octobre-groupe1\Visual Studio\Data Access Layer\bin\Debug\Data Access Layer.dll
+C:\_mes cours\d05_C#\d05-a22-octobre-groupe1\Visual Studio\Data Access Layer\obj\Debug\Data Access Layer.dll
+C:\_mes_cours\d05_c#\TP\d05-a22-octobre-groupe1\Visual Studio\Data Access Layer\bin\Debug\Data Access Layer.dll
+C:\_mes_cours\d05_c#\TP\d05-a22-octobre-groupe1\Visual Studio\Data Access Layer\obj\Debug\Data Access Layer.dll
