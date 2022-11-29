@@ -1,0 +1,34 @@
+C:\_mes_cours\d05_c#\TP\d05-a22-octobre-groupe1\Visual Studio\View\bin\Debug\View.exe.config
+C:\_mes_cours\d05_c#\TP\d05-a22-octobre-groupe1\Visual Studio\View\bin\Debug\View.exe
+C:\_mes_cours\d05_c#\TP\d05-a22-octobre-groupe1\Visual Studio\View\bin\Debug\View.pdb
+C:\_mes_cours\d05_c#\TP\d05-a22-octobre-groupe1\Visual Studio\View\bin\Debug\Business Logic Layer.dll
+C:\_mes_cours\d05_c#\TP\d05-a22-octobre-groupe1\Visual Studio\View\bin\Debug\Modele.dll
+C:\_mes_cours\d05_c#\TP\d05-a22-octobre-groupe1\Visual Studio\View\bin\Debug\Business Logic Layer.pdb
+C:\_mes_cours\d05_c#\TP\d05-a22-octobre-groupe1\Visual Studio\View\bin\Debug\Modele.pdb
+C:\_mes_cours\d05_c#\TP\d05-a22-octobre-groupe1\Visual Studio\View\bin\Debug\Data Access Layer.pdb
+C:\_mes_cours\d05_c#\TP\d05-a22-octobre-groupe1\Visual Studio\View\obj\Debug\View.csprojAssemblyReference.cache
+C:\_mes_cours\d05_c#\TP\d05-a22-octobre-groupe1\Visual Studio\View\obj\Debug\AjouterNewContact.g.cs
+C:\_mes_cours\d05_c#\TP\d05-a22-octobre-groupe1\Visual Studio\View\obj\Debug\CreateAccount.g.cs
+C:\_mes_cours\d05_c#\TP\d05-a22-octobre-groupe1\Visual Studio\View\obj\Debug\MainWindow.g.cs
+C:\_mes_cours\d05_c#\TP\d05-a22-octobre-groupe1\Visual Studio\View\obj\Debug\ModifieInfosProfile.g.cs
+C:\_mes_cours\d05_c#\TP\d05-a22-octobre-groupe1\Visual Studio\View\obj\Debug\PageAccueil.g.cs
+C:\_mes_cours\d05_c#\TP\d05-a22-octobre-groupe1\Visual Studio\View\obj\Debug\App.g.cs
+C:\_mes_cours\d05_c#\TP\d05-a22-octobre-groupe1\Visual Studio\View\obj\Debug\View_MarkupCompile.cache
+C:\_mes_cours\d05_c#\TP\d05-a22-octobre-groupe1\Visual Studio\View\obj\Debug\View_MarkupCompile.lref
+C:\_mes_cours\d05_c#\TP\d05-a22-octobre-groupe1\Visual Studio\View\obj\Debug\AjouterNewContact.baml
+C:\_mes_cours\d05_c#\TP\d05-a22-octobre-groupe1\Visual Studio\View\obj\Debug\CreateAccount.baml
+C:\_mes_cours\d05_c#\TP\d05-a22-octobre-groupe1\Visual Studio\View\obj\Debug\MainWindow.baml
+C:\_mes_cours\d05_c#\TP\d05-a22-octobre-groupe1\Visual Studio\View\obj\Debug\ModifieInfosProfile.baml
+C:\_mes_cours\d05_c#\TP\d05-a22-octobre-groupe1\Visual Studio\View\obj\Debug\PageAccueil.baml
+C:\_mes_cours\d05_c#\TP\d05-a22-octobre-groupe1\Visual Studio\View\obj\Debug\View.g.resources
+C:\_mes_cours\d05_c#\TP\d05-a22-octobre-groupe1\Visual Studio\View\obj\Debug\View.Properties.Resources.resources
+C:\_mes_cours\d05_c#\TP\d05-a22-octobre-groupe1\Visual Studio\View\obj\Debug\View.csproj.GenerateResource.cache
+C:\_mes_cours\d05_c#\TP\d05-a22-octobre-groupe1\Visual Studio\View\obj\Debug\View.csproj.CoreCompileInputs.cache
+C:\_mes_cours\d05_c#\TP\d05-a22-octobre-groupe1\Visual Studio\View\obj\Debug\View.csproj.CopyComplete
+C:\_mes_cours\d05_c#\TP\d05-a22-octobre-groupe1\Visual Studio\View\obj\Debug\View.exe
+C:\_mes_cours\d05_c#\TP\d05-a22-octobre-groupe1\Visual Studio\View\obj\Debug\View.pdb
+C:\_mes_cours\d05_c#\TP\d05-a22-octobre-groupe1\Visual Studio\View\obj\Debug\PopupEditeEnterID.g.cs
+C:\_mes_cours\d05_c#\TP\d05-a22-octobre-groupe1\Visual Studio\View\obj\Debug\PopupDeleteEnterID.g.cs
+C:\_mes_cours\d05_c#\TP\d05-a22-octobre-groupe1\Visual Studio\View\obj\Debug\PopupDeleteEnterID.baml
+C:\_mes_cours\d05_c#\TP\d05-a22-octobre-groupe1\Visual Studio\View\obj\Debug\PopupEditeEnterID.baml
+C:\_mes_cours\d05_c#\TP\d05-a22-octobre-groupe1\Visual Studio\View\bin\Debug\Data Access Layer.dll

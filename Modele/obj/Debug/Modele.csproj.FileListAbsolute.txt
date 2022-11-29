@@ -1,0 +1,6 @@
+C:\_mes_cours\d05_c#\TP\d05-a22-octobre-groupe1\Visual Studio\Modele\bin\Debug\Modele.dll
+C:\_mes_cours\d05_c#\TP\d05-a22-octobre-groupe1\Visual Studio\Modele\bin\Debug\Modele.pdb
+C:\_mes_cours\d05_c#\TP\d05-a22-octobre-groupe1\Visual Studio\Modele\obj\Debug\Modele.csprojAssemblyReference.cache
+C:\_mes_cours\d05_c#\TP\d05-a22-octobre-groupe1\Visual Studio\Modele\obj\Debug\Modele.csproj.CoreCompileInputs.cache
+C:\_mes_cours\d05_c#\TP\d05-a22-octobre-groupe1\Visual Studio\Modele\obj\Debug\Modele.dll
+C:\_mes_cours\d05_c#\TP\d05-a22-octobre-groupe1\Visual Studio\Modele\obj\Debug\Modele.pdb
