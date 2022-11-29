@@ -1,0 +1,11 @@
+C:\_mes_cours\d05_c#\TP\d05-a22-octobre-groupe1\Visual Studio\Business Logic Layer\bin\Debug\Business Logic Layer.dll
+C:\_mes_cours\d05_c#\TP\d05-a22-octobre-groupe1\Visual Studio\Business Logic Layer\bin\Debug\Business Logic Layer.pdb
+C:\_mes_cours\d05_c#\TP\d05-a22-octobre-groupe1\Visual Studio\Business Logic Layer\bin\Debug\Modele.dll
+C:\_mes_cours\d05_c#\TP\d05-a22-octobre-groupe1\Visual Studio\Business Logic Layer\bin\Debug\Data Access Layer.pdb
+C:\_mes_cours\d05_c#\TP\d05-a22-octobre-groupe1\Visual Studio\Business Logic Layer\bin\Debug\Modele.pdb
+C:\_mes_cours\d05_c#\TP\d05-a22-octobre-groupe1\Visual Studio\Business Logic Layer\obj\Debug\Business Logic Layer.csprojAssemblyReference.cache
+C:\_mes_cours\d05_c#\TP\d05-a22-octobre-groupe1\Visual Studio\Business Logic Layer\obj\Debug\Business Logic Layer.csproj.CoreCompileInputs.cache
+C:\_mes_cours\d05_c#\TP\d05-a22-octobre-groupe1\Visual Studio\Business Logic Layer\obj\Debug\Business Logic Layer.csproj.CopyComplete
+C:\_mes_cours\d05_c#\TP\d05-a22-octobre-groupe1\Visual Studio\Business Logic Layer\obj\Debug\Business Logic Layer.dll
+C:\_mes_cours\d05_c#\TP\d05-a22-octobre-groupe1\Visual Studio\Business Logic Layer\obj\Debug\Business Logic Layer.pdb
+C:\_mes_cours\d05_c#\TP\d05-a22-octobre-groupe1\Visual Studio\Business Logic Layer\bin\Debug\Data Access Layer.dll
